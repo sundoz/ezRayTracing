@@ -1,9 +1,6 @@
 #ifndef VEC3_HCC
 #define VEC3_HCC
 
-#include <cmath>
-#include <iostream>
-
 using std::sqrt;
 
 class vec3 {
